@@ -1,0 +1,3 @@
+# dont try to fire the other after fail
+GT4500,10,1,10,0
+TORPEDO,SINGLE  # fail fireing
